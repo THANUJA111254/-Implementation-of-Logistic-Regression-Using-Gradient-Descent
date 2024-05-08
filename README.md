@@ -116,8 +116,12 @@ print(y_prednew)
 ```
 
 <br>
-<br>
+
 ## Output:
+
+<br>
+
+
 ### Read the file and display
 ![image](https://github.com/HIRU-VIRU/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145972122/d10b3235-91f1-4915-9da0-9c71936ab8d1)
 ### Categorizing columns
