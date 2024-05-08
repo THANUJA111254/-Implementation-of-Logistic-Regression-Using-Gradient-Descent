@@ -28,6 +28,11 @@ Prepare new data, scale it, and use the trained model to predict the target vari
 Display the predicted value for the target variable based on the linear regression model applied to the new data.
 
 
+<Br>
+<Br>
+<Br>
+<Br>
+<Br>
 
 ## Program:
 ```python
