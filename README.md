@@ -26,7 +26,19 @@ Prepare new data, scale it, and use the trained model to predict the target vari
 
 ## 6.Print the Predicted Value:
 Display the predicted value for the target variable based on the linear regression model applied to the new data.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Program:
 ```
 /*
