@@ -30,14 +30,12 @@ Display the predicted value for the target variable based on the linear regressi
 
 
 ## Program:
-```
+```python
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Hiruthik Sudhakar
 RegisterNumber:  212223240054
 */
-```
-```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
