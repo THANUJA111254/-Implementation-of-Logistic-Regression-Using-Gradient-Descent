@@ -23,7 +23,7 @@ Apply the defined linear regression function to the scaled features and target v
 
 ### 5.Make Predictions on New Data:
 Prepare new data, scale it, and use the trained model to predict the target variable, transforming predictions back to the original scale.
-
+<br>
 ### 6.Print the Predicted Value:
 Display the predicted value for the target variable based on the linear regression model applied to the new data.
 
