@@ -15,10 +15,10 @@ Import NumPy, pandas, and StandardScaler for numerical operations, data handling
 2. Define the Linear Regression Function:
 Create a linear regression function using gradient descent to iteratively update parameters, minimizing the difference between predicted and actual values.
 
-3. Load and Preprocess the Data:
+3.Load and Preprocess the Data:
 Load the dataset, extract features and target variable, and standardize both using StandardScaler for consistent model training.
 
-4. Perform Linear Regression:
+4.Perform Linear Regression:
 Apply the defined linear regression function to the scaled features and target variable, obtaining optimal parameters for the model.
 
 5.Make Predictions on New Data:
